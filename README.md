@@ -24,8 +24,3 @@ A step by step series of examples that tell you how to get a development env run
 ## Authors
 
 * **Eve Lin**
-
-
-## Acknowledgments
-
-* Part of the Java Web course that is part of the Software Engineering Programme
